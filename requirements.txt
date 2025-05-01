@@ -3,4 +3,4 @@ matplotlib
 chardet
 streamlit
 matplotlib
-
+pandas
