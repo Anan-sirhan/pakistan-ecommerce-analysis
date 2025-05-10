@@ -1,4 +1,4 @@
 streamlit
 matplotlib
-chardet
 pandas
+chardet
